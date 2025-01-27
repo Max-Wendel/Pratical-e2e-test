@@ -8,7 +8,7 @@ describe("Inventory - Products", () => {
     doSignIn(users.standard_user);    
   });
 
-  it.skip("Should do checkout with correct flow");
+  it.skip("Should do checkout with the correct flow");
 
   it.skip("Should select some products, go to cart, and go back to continue shopping");
 

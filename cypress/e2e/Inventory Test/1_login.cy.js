@@ -11,11 +11,11 @@ describe('Inventory - Login', () => {
       cy.contains('Products');
     });
     
-    it.skip('Should login with ivalid credentials and do logout');
+    it.skip('Should login with valid credentials and do logout');
 
     it.skip('Should not login with invalid credentials');
 
     it.skip('Should not allow "locked_out_user" do sign in');
 
-    it.skip('Should login with "performance_glitch_user" and wait the page loads');
+    it.skip('Should login with "performance_glitch_user" and wait the products page loads');
   })

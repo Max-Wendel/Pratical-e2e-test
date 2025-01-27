@@ -10,7 +10,7 @@ describe('Inventory - Products', () => {
 
   it.skip('Should see the product details and add to cart');
 
-  it.skip('Should sort products by price (high to low)');
+  it.skip('Should sort products by price properly (high to low)');
 
-  it.skip('Should sort products by price (low to high)');
+  it.skip('Should sort products by price properly (low to high)');
 });
